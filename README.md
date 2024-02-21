@@ -1,2 +1,2 @@
 # bookbot
-This is my first README description.
+BookBot is my first git project!
